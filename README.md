@@ -66,11 +66,6 @@ open the front-end folder and run Windows Command Prompt or Powershell or termin
 
 `npm run serve` 
 
-This command will start the Vue server with the front-end app working at 
-[http://localhost:8080/](http://localhost:8080/ "Your MEVN calendar app")
-
-It's possible that the app maybe deployed on another port as well
-
 ## Built With
 
 This app has been made using the MEVN stack.
@@ -80,19 +75,3 @@ This app has been made using the MEVN stack.
 *Front-end - Vue
 
 *Database - A local Mongo Server
-
-
-## Authors
-
-* **V. Rohan Rao** 
-* **Yash Vardhan Prasad**
-
-for the **GNU/Linux User's Group, NIT DURGAPUR**
-
-
-## Contributing
-
-Clone the repository, make a seperate branch, open your issue and make a Pull Request.
-
-
-
